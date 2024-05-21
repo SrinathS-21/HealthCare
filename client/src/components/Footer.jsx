@@ -30,7 +30,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          Made by <a href="https://www.linkedin.com/in/vishal-r-2a7b58259/" target="_blank" rel="noreferrer">Vishal R</a> © {new Date().getFullYear()}
+          Made by <a href="https://www.linkedin.com/in/vishal-r-2a7b58259/" target="_blank" rel="noreferrer">Srinath S</a> © {new Date().getFullYear()}
         </div>
       </footer>
     </>
